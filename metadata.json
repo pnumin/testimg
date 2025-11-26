@@ -1,0 +1,7 @@
+{
+  "name": "도면 비교 분석기 (Blueprint Diff AI)",
+  "description": "두 개의 도면이나 이미지를 업로드하여 AI로 차이점을 분석하고 시각적으로 표시해주는 도구입니다.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
